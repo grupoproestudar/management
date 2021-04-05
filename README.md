@@ -1,7 +1,7 @@
 # management
 
 
-## O "Pró - Estudar Feedback App" é um projeto open-source utilizando Ionic :sunglasses:
+## O "Pró - Estudar Gestão" é um projeto open-source utilizando Vue/Vuex :sunglasses:
 * Plataforma de gestão feedbacks dos alunos desenvolvida em Vue para o cursinho popular Pró - Estudar situado na cidade de Matão - SP.
   
 ## Da "Like" :star:
